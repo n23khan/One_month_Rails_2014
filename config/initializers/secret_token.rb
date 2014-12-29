@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Pinteresting::Application.config.secret_key_base = '238645669f49f96d3592f6045509eb775f9d1517b2f0e68b22bb0587f8439efb8926fea29270f32b573d473c677edc472e2a458b0a3700cd93cf417292e74bf2'
+Pinteresting::Application.config.secret_key_base = '46f60b92265fdcbe7eb2e55a2f8a39a8ec3dd601f9c114b34eae7b77b997dd1bfa3a2047092504e98d38345dd71df0a4ead84c9289b55a35b8fca82719a49f96'

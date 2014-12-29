@@ -1,3 +1,6 @@
 # One Month Rails
 
-Pinterest type of site by Najeeb Khan
+This is the pinteresting sample application for
+[*One Month Rails*](http://onemonthrails.com)
+
+by [Mattan Griffel](http://mattangriffel.com)
